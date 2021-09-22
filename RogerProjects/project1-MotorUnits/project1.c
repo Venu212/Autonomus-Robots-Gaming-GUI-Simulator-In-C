@@ -5,7 +5,7 @@
 /*              base translate --- motor units execute every simulated   */
 /*              millisecond and are never disengaged. Higher-level       */
 /*              control applications submit sequences of setpoints to    */
-/*              combinations of motorunits.                              */
+/*              combinations of motorunits.  j                            */
 /* Date:        1-2015                                                   */
 /*************************************************************************/
 #include <math.h>
